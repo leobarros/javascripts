@@ -3,7 +3,7 @@ let dogs = [];
 let cats = [];
 
 dogs.push(animals[0], animals[2], animals[4], animals[5]);
-console.log(dogs);
+console.log('Only dogs: ' + `${dogs}`);
 
 cats.push(animals[1], animals[3]);
-console.log(cats);
+console.log('Only cats: ' + `${cats}`);
