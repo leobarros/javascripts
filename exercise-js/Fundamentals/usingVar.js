@@ -6,4 +6,5 @@
     }
 }
 
-console.log(will)
+console.log(will);
+
